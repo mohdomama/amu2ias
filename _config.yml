@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'myjekyll.github.io/jasper/'
+short_url: 'mohdomama.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -51,8 +51,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://myjekyll.github.io/jasper/
-source_url:  https://github.com/myjekyll/jasper/
+production_url:  https://mohdomama.github.io/jasper/
+source_url:  https://github.com/mohdomama/jasper/
 
 exclude:
   - README.md
