@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>mohdomama.github.io/amu2ias</title>
+   
+   <link></link>
+   <description>Bringing the civil services legacy back to AMU</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Motivational Speech by Noorul Hasan</title>
+	  <link>/amu2ias//motivational-speech-by-noorul-hasan</link>
+	  <author></author>
+	  <pubDate>2018-01-25T00:00:00+05:30</pubDate>
+	  <guid>/amu2ias//motivational-speech-by-noorul-hasan</guid>
+	  <description><![CDATA[
+	     <p><a href="https://www.youtube.com/watch?v=RUQsrk99lGM"><img src="https://img.youtube.com/vi/RUQsrk99lGM/0.jpg" alt="Video" /></a></p>
+
+<p>Know more about Mr. <a href="/amu2ias/noorul-hasan">Noorul Hasan</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
