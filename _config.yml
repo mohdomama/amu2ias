@@ -9,11 +9,11 @@ language: 'en-uk'
 # Website info
 name: 'AMU 2 IAS'
 description: 'Bringing the civil services legacy back to AMU'
-short_url: 'mohdomama.github.io/'
+short_url: 'mohdomama.github.io/amu2ias'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /amu2ias/
 
 # Permalinks
 permalink: /:title
@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://mohdomama.github.io/
-source_url:  https://github.com/mohdomama/
+production_url:  https://mohdomama.github.io/amu2ias
+source_url:  https://github.com/mohdomama/amu2ias
 
 defaults:
   -
