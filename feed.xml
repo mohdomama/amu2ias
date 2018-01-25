@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMU 2 IAS - Articles</title>
+    <description>Bringing the civil services legacy back to AMU</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>test3</title>
+        
+          <description>&lt;p&gt;test3&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 25 Jan 2018 00:00:00 +0530</pubDate>
+        <link>
+        /test3</link>
+        <guid isPermaLink="true">/test3</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Test</title>
+        
+          <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 25 Jan 2018 00:00:00 +0530</pubDate>
+        <link>
+        /test</link>
+        <guid isPermaLink="true">/test</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
