@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>mohdomama.github.io/</title>
+      <title>mohdomama.github.io/amu2ias</title>
    
    <link></link>
    <description>Bringing the civil services legacy back to AMU</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>test3</title>
-	  <link>//test3</link>
+	  <link>/amu2ias//test3</link>
 	  <author></author>
 	  <pubDate>2018-01-25T00:00:00+05:30</pubDate>
-	  <guid>//test3</guid>
+	  <guid>/amu2ias//test3</guid>
 	  <description><![CDATA[
 	     <p>test3</p>
 
@@ -25,10 +25,10 @@
 
 	<item>
 	  <title>Test</title>
-	  <link>//test</link>
+	  <link>/amu2ias//test</link>
 	  <author></author>
 	  <pubDate>2018-01-25T00:00:00+05:30</pubDate>
-	  <guid>//test</guid>
+	  <guid>/amu2ias//test</guid>
 	  <description><![CDATA[
 	     <p>Test</p>
 
