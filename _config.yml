@@ -66,6 +66,7 @@ defaults:
       navigation: true
       layout: "post"
       logo: assets/images/ghost.png
+      subclass: post tag-fame
       
 
 exclude:

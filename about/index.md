@@ -1,13 +1,11 @@
 ---
-layout: page
 title: About
+layout: page
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: assets/images/ghost.png
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+This website is the contingency plan of the official AMU2IAS project under AMU-OSS. Which in turn is a recreation of the [original Amu2Ias website](https://amu2ias.wordpress.com/) deveoped by [Mohammad Sana Akhtar](https://www.facebook.com/md.sana.akhtar) and [Noorul Hasan](https://www.facebook.com/noorul.hasan90).
 
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+This website lags some core functionalities which will not be the case with the official website which is being deveoped under the lead of[ Areeb Jamal](https://github.com/iamareebjamal).
